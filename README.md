@@ -1,1 +1,3 @@
-# Open_Source_Software_Development_Linux_and_Git_Specialization
+# Open Source Software Development, Linux and Git Specialization
+
+This Specialization from The Linux Foundation will give you a strong foundation for working comfortably and productively in open source development communities. By completing the Specialization, you’ll have a better understanding of the Linux environment, as well as methods and tools required to successfully use it, and you’ll know how to use Git, the distributed version control system.
